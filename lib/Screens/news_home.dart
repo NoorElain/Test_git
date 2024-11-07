@@ -8,7 +8,7 @@ class NewsHome extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("News Application", style: TextStyle(fontSize: 40,color: Colors.white),),
+        title: Text("News Application updated", style: TextStyle(fontSize: 40,color: Colors.white),),
         //backgroundColor: Colors.black,
       ),
     );
